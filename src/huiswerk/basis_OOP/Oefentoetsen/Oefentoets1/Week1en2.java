@@ -1,4 +1,4 @@
-package huiswerk.basis_OOP.Oefentoetsen;
+package huiswerk.basis_OOP.Oefentoetsen.Oefentoets1;
 import java.time.DayOfWeek;
 
 public class Week1en2

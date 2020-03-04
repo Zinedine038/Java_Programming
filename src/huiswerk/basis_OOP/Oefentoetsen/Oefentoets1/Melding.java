@@ -1,6 +1,4 @@
-package huiswerk.basis_OOP.Oefentoetsen;
-
-import huiswerk.basis_OOP.Les5.Verpakking;
+package huiswerk.basis_OOP.Oefentoetsen.Oefentoets1;
 
 import java.time.LocalDate;
 import java.time.DayOfWeek;
